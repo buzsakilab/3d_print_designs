@@ -17,8 +17,8 @@
 #theme: just-the-docs
 remote_theme: petersenpeter/just-the-docs
 
-title: CellExplorer
-description: 3d_print_designs
+title: 3D print designs
+description: Metal microdrive and head cap system for silicon probe recovery in freely moving rodent.
 baseurl: "3d_print_designs" # the subpath of your site, e.g. /blog
 url: "https://buzsakilab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
