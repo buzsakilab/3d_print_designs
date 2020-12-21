@@ -1,0 +1,16 @@
+Plastic microdrive v21 (1/2")					
+			
+Qty	Name			Vendor		Item number	Notes			Link
+					
+7	00-90 nut		McMaster	92736A112				https://www.mcmaster.com/92736a112
+2	00-90 screw 1/2" 	McMaster	92482A235				https://www.mcmaster.com/92482a235
+4	000-120 screw 1/4" 	McMaster	93701A005				https://www.mcmaster.com/93701a005
+1	male header pin		DigiKey		SAM1067-40-ND				https://www.digikey.com/products/en?keywords=SAM1067-40-ND
+
+
+Additional tools				
+1	T2 screwdriver		McMaster	52995A31	Only T2 is necessary!	https://www.mcmaster.com/52995a31
+1	00-90 Tap 		McMaster	2504A14		Or similar 00-90 tap.	https://www.amazon.com/
+1	1.2 mm drill bit	McMaster	2958A29		Or similar drill bit. 	https://www.mcmaster.com/2958a29
+
+

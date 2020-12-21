@@ -1,0 +1,18 @@
+Rat cap v08 				
+			
+Qty	Name			Vendor		Item number	Notes			Link
+					
+1	00-80 screw 1"		McMaster	92196A060				https://www.mcmaster.com/92196a060
+1	00-80 brass insert 	McMaster	92395A109				https://www.mcmaster.com/92395a109
+2	00-80 screw 5/32" 	McMaster	92196A053				https://www.mcmaster.com/92196a053
+1	male header pin		DigiKey		SAM1067-40-ND				https://www.digikey.com/products/en?keywords=SAM1067-40-ND
+1	copper tape		McMaster	76555A724				https://www.mcmaster.com/76555A724/
+1	Coban			3M		7100219100				https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Coban-Self-Adherent-Wrap-1583N-Neon-Rainbow-Pack-3-Inches-x-5-Yards-12-Bags-Case/?N=5002385+3288984430&preselect=3293786499&rt=rud
+
+Optional (to close lid for extended period of time)
+1	M2x0.4 Thumb screw	McMaster	99607A256				https://www.mcmaster.com/99607a256
+1	M2x0.4 THIN nut		McMaster	93935A305				https://www.mcmaster.com/93935a305
+
+Additional tools				
+1	00-80 tap		McMaster	2523A461				https://www.mcmaster.com/2523a461
+1	0.05" hex key
