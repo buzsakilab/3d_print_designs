@@ -4,7 +4,7 @@ Qty	Name			Vendor		Item number	Notes			Link
 					
 7	00-90 nut		McMaster	92736A112				https://www.mcmaster.com/92736a112
 2	00-90 screw 1/2" 	McMaster	92482A235				https://www.mcmaster.com/92482a235
-4	000-120 screw 1/4" 	McMaster	93701A005				https://www.mcmaster.com/93701a005
+4	00-90 screw 1/4" 	McMaster	93701A005				https://www.mcmaster.com/93701a005
 1	male header pin		DigiKey		SAM1067-40-ND				https://www.digikey.com/products/en?keywords=SAM1067-40-ND
 
 
