@@ -11,6 +11,8 @@ v8: rat_cap_base_v8, rat_cap_left_wall_v8, rat_cap_right_wall_v8, rat_cap_top_v8
 The fully assembled cap weighs 9.39g.
 
 If you use this design, please cite our paper:
-
+Metal microdrive and head cap system for silicon probe recovery in freely moving rodent
+Mihály Vöröslakos, Peter C. Petersen, Balázs Vöröslakos, György Buzsáki
+bioRxiv 2020.12.20.423655; doi: https://doi.org/10.1101/2020.12.20.423655 
 
 The designs are desitributed under GNU GPLv3 license.
