@@ -2,7 +2,8 @@ Metal microdrive designs for silicon probes.
 
 **ASSEMBLY**
 
-Assembly instructions can be found in the **assembly_instructions_metal_microdrive_v9.pdf** file.
+Assembly instructions can be found in the **assembly_instructions_metal_microdrive_v9.pdf** file. Assembly video can be found here: https://www.youtube.com/watch?v=poEjWvFrr5g. 
+Attaching Neuropixels probe (or any other silicon probe) video can be found here: https://www.youtube.com/watch?v=MpPdWJEo7Fo
 
 **ORDERING**
 
