@@ -1,11 +1,21 @@
-Microdrive designs for silicon probes.
+Metal microdrive designs for silicon probes.
 
-**Assembly instructions**
-Assembly instructions can be found in the assembly_instructions_metal_microdrive_v9.pdf file.
+**ASSEMBLY**
+
+Assembly instructions can be found in the **assembly_instructions_metal_microdrive_v9.pdf** file.
+
+**ORDERING**
+
+The .step files are optimized for stainless steel 316L, 20 micrometer resolution and aluminum AlSi10Mg, high resolution using Proto Labs (https://www.protolabs.com/). Please see *ordering_instructions.txt* for more information. 
+For other printers, materials or company, some modifications may be necessary.
+
+
+**PURCHASING fully assembled microdrives**
 
 To purchase fully assembled drives, contact 3Dneuro (our partner in production) https://www.3dneuro.com/2021/04/23/new-metal-microdrive-in-collaboration-with-the-buzsaki-lab/.
-The .step files are optimized for stainless steel 316L, 20 micrometer resolution using Proto Labs (https://www.protolabs.com/). Please see ordering_instructions.txt for more information. 
-For other printers, materials or company, some modifications may be necessary.
+
+
+**SPECIFICATIONS**
 
 1 version is made available here:
 v9: shell base 3.6 x 4.7 mm (WxL); height: 15 mm; travel distance 7 mm
@@ -15,6 +25,8 @@ The .stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Res
 1 version is made available here:
 v9: stereotax attachment and drive holder.
 
+
+**CITATION**
 
 If you use our designs, please cite our paper:
 Metal microdrive and head cap system for silicon probe recovery in freely moving rodent 
