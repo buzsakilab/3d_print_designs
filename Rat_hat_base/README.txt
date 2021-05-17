@@ -11,4 +11,4 @@ Bioprotocol
 Peter Christian Petersen,Gyorgy Buzsaki; Cooling of Medial Septum Reveals Theta Phase LagCoordination of Hippocampal Cell Assemblies (Neuron, 2020)
 
 
-The designs are desitributed under GNU GPLv3 license.
+The designs are distributed under GNU GPLv3 license.
