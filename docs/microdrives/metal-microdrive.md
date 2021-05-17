@@ -24,7 +24,12 @@ For other printers, materials or company, some modifications may be necessary.
 To purchase fully assembled drives, please contact [3Dneuro](https://www.3dneuro.com/2021/04/23/new-metal-microdrive-in-collaboration-with-the-buzsaki-lab/) (our partner in production).
 
 ## Assembly instructions 
-Assembly instructions can be found in the assembly_instructions_metal_microdrive_v9.pdf file. Assembly video can be found [here](https://www.youtube.com/watch?v=poEjWvFrr5g). Attaching Neuropixels probe (or any other silicon probe) video can be found [here](https://www.youtube.com/watch?v=MpPdWJEo7Fo).
+Assembly instructions can be found in the assembly_instructions_metal_microdrive_v9.pdf file.
+
+{% include youtubePlayer.html id=poEjWvFrr5g %}
+
+The assembly video can be found [here](https://www.youtube.com/watch?v=poEjWvFrr5g). Attaching Neuropixels probe (or any other silicon probe) video can be found [here](https://www.youtube.com/watch?v=MpPdWJEo7Fo).
+
 
 ## Materials
 
@@ -32,26 +37,26 @@ __Metal microdrive v9 (1/2")__
 
 | Qty | Name | Vendor | Item number | Notes | Link |
 |-----|------|--------|-------------|-------|------|
-| 4 | 00-90 nut | McMaster |  92736A112 | https://www.mcmaster.com/92736a112 |
-| 1 | 00-90 screw 1/2" | McMaster | 92482A235 | https://www.mcmaster.com/92482a235/ |
-| 3 | 00-90 screw 1/4" | McMaster | 93701A005 | https://www.mcmaster.com/93701A005/ |
-| 1 | 2-56 nylon screw 1/4" | McMaster | 95868A132 | https://www.mcmaster.com/95868A132/ |
-| 1 | 000-120 screw 1/8" | McMaster | 90910A600 | https://www.mcmaster.com/93701a005 |
-| 1-3 | male header pin | DigiKey | SAM1067-40-ND | https://www.digikey.com/products/en?keywords=SAM1067-40-ND |
+| 4 | 00-90 nut | McMaster |  92736A112 | [ref](https://www.mcmaster.com/92736a112) |
+| 1 | 00-90 screw 1/2" | McMaster | 92482A235 | [ref](https://www.mcmaster.com/92482a235/) |
+| 3 | 00-90 screw 1/4" | McMaster | 93701A005 | [ref](https://www.mcmaster.com/93701A005/) |
+| 1 | 2-56 nylon screw 1/4" | McMaster | 95868A132 | [ref](https://www.mcmaster.com/95868A132/) |
+| 1 | 000-120 screw 1/8" | McMaster | 90910A600 | [ref](https://www.mcmaster.com/93701a005) |
+| 1-3 | male header pin | DigiKey | SAM1067-40-ND | [ref](https://www.digikey.com/products/en?keywords=SAM1067-40-ND) |
 
 
 __Additional tools__ 
 
 | Qty | Name | Vendor | Item number | Notes | Link |
 |-----|------|--------|-------------|-------|------|
-| 1 | 	T2 screwdriver | 		McMaster | 	52995A31 | 				 | https://www.mcmaster.com/52995a31 | 
-| 1 | 	T1 screwdriver | 		McMaster | 	52995A31 | 				 | https://www.mcmaster.com/52995a31 | 
-| 1 | 	00-90 Tap |  		McMaster | 	2504A14	 | 	Or similar 00-90 tap.	 | https://www.mcmaster.com/2504A14/ | 
-| 1 | 	000-120 Tap | 		McMaster | 	2504A12	 | 	Or similar 000-120 tap.	 | https://www.mcmaster.com/2504A12/ | 
-| 1 | 	2-56 Tap | 		McMaster | 	2522A713 | 	Or similar 2-56 tap.	 | https://www.mcmaster.com/2522A713/ | 
-| 1 | 	Ball-End |  		McMaster | 	5497A24 | 					 | https://www.mcmaster.com/5497A24/ | 
-|  	| 	Hex Screwdriver |  |  |  |  | 
-| 1 | 	1.2 mm drill bit | 	McMaster | 	2958A29 | 		Or similar drill bit. |  	https://www.mcmaster.com/2958a29 | 
+| 1 | T2 screwdriver | McMaster | 52995A31 | | [ref](https://www.mcmaster.com/52995a31) | 
+| 1 | T1 screwdriver | McMaster | 52995A31 | | [ref](https://www.mcmaster.com/52995a31) | 
+| 1 | 00-90 Tap | McMaster | 	2504A14 | Or similar 00-90 tap. | [ref](https://www.mcmaster.com/2504A14/) | 
+| 1 | 000-120 Tap | McMaster | 2504A12 | Or similar 000-120 tap. | [ref](https://www.mcmaster.com/2504A12/) | 
+| 1 | 2-56 Tap | McMaster | 2522A713 | Or similar 2-56 tap. | [ref](https://www.mcmaster.com/2522A713/) | 
+| 1 | Ball-End | McMaster | 5497A24 | | [ref](https://www.mcmaster.com/5497A24/) | 
+|  | Hex Screwdriver |  |  |  |  | 
+| 1 | 1.2 mm drill bit |  McMaster | 2958A29 | Or similar drill bit. | [ref](https://www.mcmaster.com/2958a29) | 
 
 
 ## Citations
