@@ -6,4 +6,4 @@ has_children: true
 ---
 # Rodent models
 {: .no_toc}
-Rat skull
+3d Rat and mouse skull models made by third parties.
