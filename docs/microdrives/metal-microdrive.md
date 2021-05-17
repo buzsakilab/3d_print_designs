@@ -4,23 +4,20 @@ title: Metal microdrive
 parent: Microdrives
 nav_order: 1
 ---
-# Recoverable metal microdrive
-Metal microdrive for silicon probes.
-
 ![Recoverable microdrive](https://buzsakilab.github.io/3d_print_designs/images/recoverable_microdrive.jpg)
 
-## Ordering and Purchasing instructions
-We provide all necessary stl files and instructions for assembling the microdrives yourself. You may also order them from our production partner 3Dneuro. 
+# Recoverable metal microdrive
+Metal microdrive for silicon probe recordings. Below are necessary design files and detailed instructions for assembling the microdrives yourself. You may also order them from our production partner 3Dneuro. 
 
 ### Ordering and assemble the drive yourself
-The .step files are optimized for stainless steel 316L, 20 micrometer resolution and aluminum AlSi10Mg, high resolution using Proto Labs (https://www.protolabs.com/).
+The .step files are optimized for stainless steel 316L, 20 micrometer resolution and aluminum AlSi10Mg, high resolution using Proto Labs (https://www.protolabs.com/). Download step files from the [GitGub repository](https://github.com/buzsakilab/3d_print_designs/tree/master/Microdrives/Metal_recoverable).
 
-In order to receive high quality prints from ProtoLabs, please follow these instructions.
+In order to receive high quality prints from ProtoLabs, please follow these instructions:
 
 1. Add the following note to _drive_v09_: "Use orientation as in quote 9301-742"
 2. Add the following note to _arm_v09_aluminum_: "Use orientation as in quote 2379-080"
 
-For other printers, materials or company, some modifications may be necessary.
+For other printers, materials or printing companies, modifications may be necessary.
 
 ### Purchasing fully assembled microdrives
 To purchase fully assembled drives, please contact [3Dneuro](https://www.3dneuro.com/2021/04/23/new-metal-microdrive-in-collaboration-with-the-buzsaki-lab/) (our partner in production).
