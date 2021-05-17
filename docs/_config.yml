@@ -34,7 +34,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # include: ["docs/tests/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/logo6.png"
+logo: "/assets/images/3Dprint.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -70,8 +70,8 @@ heading_anchors: true
 aux_links:
   "Code on GitHub":
     - "https://github.com/buzsakilab/3d_print_designs"
-#  "Manuscript on bioRxiv":
-#    - "https://www.biorxiv.org/content/10.1101/2020.05.07.083436v1"
+  "Manuscript on bioRxiv":
+    - "https://www.biorxiv.org/content/10.1101/2020.12.20.423655v1"
 
 
 # Makes Aux links open in a new tab. Default is false
