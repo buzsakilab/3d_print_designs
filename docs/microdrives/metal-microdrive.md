@@ -3,7 +3,6 @@ layout: default
 title: Metal microdrive
 parent: Microdrives
 nav_order: 1
-youtubeId: poEjWvFrr5g
 ---
 # Metal microdrive
 Metal microdrive designs for silicon probes.
@@ -27,7 +26,10 @@ To purchase fully assembled drives, please contact [3Dneuro](https://www.3dneuro
 ## Assembly instructions 
 Assembly instructions can be found in the assembly_instructions_metal_microdrive_v9.pdf file.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+<video width="100%" height="auto" controls="controls">
+  <source src="https://buzsakilab.com/3d_print_designs/Figure1-video1.mp4" type="video/mp4">
+</video>
+
 
 The assembly video can be found [here](https://www.youtube.com/watch?v=poEjWvFrr5g). Attaching Neuropixels probe (or any other silicon probe) video can be found [here](https://www.youtube.com/watch?v=MpPdWJEo7Fo).
 
