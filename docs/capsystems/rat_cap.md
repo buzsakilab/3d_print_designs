@@ -17,7 +17,7 @@ Rat cap design for silicon probe implantation. The fully assembled cap weighs 9.
 1. TOC
 {:toc}
 
-## Assembly instructions 
+## Printing and assembly instructions 
 Download stl files from our [GitGub repository](https://github.com/buzsakilab/3d_print_designs/tree/master/Rat_cap). The .stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Resin. For other printers and/or resins, some modifications may be necessary.
 
 See video below. Detailed assembly instructions are available for the [cap system](https://github.com/buzsakilab/3d_print_designs/raw/master/Rat_cap/assembly_instructions_rat_cap_v8.pdf).
@@ -26,7 +26,7 @@ See video below. Detailed assembly instructions are available for the [cap syste
   <source src="https://buzsakilab.com/3d_print_designs/Figure3-video1.mp4" type="video/mp4">
 </video>
 
-The assembly video is also available on [youtube](https://www.youtube.com/watch?v=poEjWvFrr5g). Neuropixels probe attachment (or any other silicon probe) are available [here](https://www.youtube.com/watch?v=MpPdWJEo7Fo).
+The assembly video is also available on [youtube](https://www.youtube.com/watch?v=SgM9TPhbf_Y).
 
 ## Materials
 

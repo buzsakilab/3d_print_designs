@@ -23,7 +23,7 @@ High-yield electrophysiological extracellular recording in freely moving rodents
 ## Getting started
 We have created dedicated pages for the three elements below with detailed procedural instructions and links to resources for each of them. 
 
-[Microdrives]({{"/microdrives/microdrives/"|absolute_url}}){: .btn .fs-5 .mb-4 .mb-md-0 .mr-4} [Rat cap]({{"/pipeline/pipeline/"|absolute_url}}){: .btn .fs-5 .mb-4 .mb-md-0 .mr-4} [Mouse cap]({{"/interface/interface/"|absolute_url}}){: .btn .fs-5 .mb-4 .mb-md-0 .mr-4}
+[Microdrives]({{"/microdrives/microdrives/"|absolute_url}}){: .btn .fs-5 .mb-4 .mb-md-0 .mr-4} [Rat cap]({{"/capsystems/rat_cap/"|absolute_url}}){: .btn .fs-5 .mb-4 .mb-md-0 .mr-4} [Mouse cap]({{"/capsystems/mouse_cap/"|absolute_url}}){: .btn .fs-5 .mb-4 .mb-md-0 .mr-4}
 
 ## Support
 Please use the [GitHub issues system](https://github.com/buzsakilab/3d_print_designs/issues) for reporting bugs, enhancement requests or general questions.

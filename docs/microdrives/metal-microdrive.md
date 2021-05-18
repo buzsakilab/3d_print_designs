@@ -4,11 +4,12 @@ title: Metal microdrive
 parent: Microdrives
 nav_order: 1
 ---
-![Recoverable microdrive](https://buzsakilab.github.io/3d_print_designs/images/recoverable_microdrive.jpg)
 
 # Recoverable metal microdrive
 {: .no_toc}
 Metal microdrive for silicon probe recordings. Below are necessary design files and detailed instructions for assembling the microdrives yourself. You may also order them from our production partner 3Dneuro. 
+
+![Recoverable microdrive](https://buzsakilab.github.io/3d_print_designs/images/recoverable_microdrive.jpg)
 
 ## Table of contents
 {: .no_toc .text-delta }
