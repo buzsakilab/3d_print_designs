@@ -18,7 +18,7 @@ Metal microdrive for silicon probe recordings. Below are necessary design files 
 {:toc}
 
 ## Ordering and assemble the drive yourself
-The .step files are optimized for stainless steel 316L, 20 micrometer resolution and aluminum AlSi10Mg, high resolution using Proto Labs (https://www.protolabs.com/). Download step files from the [GitGub repository](https://github.com/buzsakilab/3d_print_designs/tree/master/Microdrives/Metal_recoverable).
+The .step files are optimized for stainless steel 316L, 20 micrometer resolution and aluminum AlSi10Mg, high resolution using Proto Labs (https://www.protolabs.com/). Download step files from our [GitHub repository](https://github.com/buzsakilab/3d_print_designs/tree/master/Microdrives/Metal_recoverable).
 
 In order to receive high quality prints from ProtoLabs, please follow these instructions:
 
@@ -41,7 +41,7 @@ The assembly video is also available on [youtube](https://www.youtube.com/watch?
 
 ## Materials
 
-__Metal microdrive v9 (1/2")__ 
+__Metal microdrive v9 (1/2")__
 
 | Qty | Name | Vendor | Item number/Link |
 |-----|------|--------|-------------|------|
@@ -52,8 +52,7 @@ __Metal microdrive v9 (1/2")__
 | 1 | 000-120 screw 1/8" | McMaster | [90910A600](https://www.mcmaster.com/93701a005) |
 | 1-3 | male header pin | DigiKey | [SAM1067-40-ND](https://www.digikey.com/products/en?keywords=SAM1067-40-ND) |
 
-
-__Additional tools__ 
+__Additional tools__
 
 | Qty | Name | Vendor | Item number/Link | Notes |
 |-----|------|--------|-------------|-------|------|
@@ -65,7 +64,6 @@ __Additional tools__
 | 1 | Ball-End       | McMaster | [5497A24](https://www.mcmaster.com/5497A24/) |  | 
 |   | Hex Screwdriver |  |  |  |  | 
 | 1 | 1.2 mm drill bit |  McMaster | [2958A29](https://www.mcmaster.com/2958a29) | Or similar drill bit. | 
-
 
 ## Citations
 If you use our designs, please cite our paper: 

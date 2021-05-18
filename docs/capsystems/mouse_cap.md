@@ -18,7 +18,7 @@ Mouse cap design for silicon probe implantation. The fully assembled cap weighs 
 {:toc}
 
 ## Printing and assembly instructions 
-Download stl files from our [GitGub repository](https://github.com/buzsakilab/3d_print_designs/tree/master/Mouse_cap). The stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Resin. For other printers and/or resins, some modifications may be necessary.
+Download stl files from our [GitHub repository](https://github.com/buzsakilab/3d_print_designs/tree/master/Mouse_cap). The stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Resin. For other printers and/or resins, some modifications may be necessary.
 
 See video below. Detailed assembly instructions are available for the [cap system](https://github.com/buzsakilab/3d_print_designs/raw/master/Mouse_cap/assembly_instructions_mouse_hat_L11.5mm_W10.00mm_v12.pdf).
 

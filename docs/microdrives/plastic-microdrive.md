@@ -9,7 +9,7 @@ nav_order: 2
 {: .no_toc}
 Plastic microdrive for silicon probe recordings. Below are necessary design files and detailed instructions for printing and assembling the microdrives yourself.
 
-![Recoverable microdrive](https://buzsakilab.github.io/3d_print_designs/images/recoverable_microdrive.jpg)
+![Recoverable plastic microdrive](https://buzsakilab.github.io/3d_print_designs/images/plastic_microdrives.png)
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -18,13 +18,13 @@ Plastic microdrive for silicon probe recordings. Below are necessary design file
 {:toc}
 
 ## Printing and assembly instructions 
-Download stl files from our [GitGub repository](https://github.com/buzsakilab/3d_print_designs/tree/master/Microdrives/Plastic_recoverable). The stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Resin. For other printers and/or resins, some modifications may be necessary.
+Download stl files from our [GitHub repository](https://github.com/buzsakilab/3d_print_designs/tree/master/Microdrives/Plastic_recoverable). The stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Resin. For other printers and/or resins, some modifications may be necessary.
 
-1. Microdrive assembly: https://youtu.be/rjxaH515N64 
-2. Probe attachment to microdrive: https://youtu.be/2L5RHcbsU7o 
-3. Probe recovery: https://youtu.be/T5gyuZVKXo8 
+1. [Microdrive assembly](https://youtu.be/rjxaH515N64)
+2. [Probe attachment to microdrive](https://youtu.be/2L5RHcbsU7o)
+3. [Probe recovery](https://youtu.be/T5gyuZVKXo8)
 
-Detailed assembly instructions are available for the [microdrive](https://github.com/buzsakilab/3d_print_designs/raw/master/Microdrives/Plastic_recoverable/assembly_instructions_rat1-2inch_v21.pdf).
+Detailed [assembly instructions](https://github.com/buzsakilab/3d_print_designs/raw/master/Microdrives/Plastic_recoverable/assembly_instructions_rat1-2inch_v21.pdf) are available for the microdrive.
 
 ## Materials
 
@@ -46,9 +46,9 @@ __Additional tools__
 | 1 | 1.2 mm drill bit | McMaster | [2958A29](https://www.mcmaster.com/2958a29) | Or similar drill bit |
 
 ## Citations
-This microdrive was modified based on Hiroyuki Miyawaki's design. The latest version of his microdrive is available at https://github.com/Mizuseki-Lab/microdrive.
+This microdrive was modified based on Hiroyuki Miyawaki's design. The latest version of their microdrive is available [here](https://github.com/Mizuseki-Lab/microdrive).
 
 The original idea of the drive is described in the following paper:
-Micro-drive and headgear for chronic implant and recovery of optoelectronic probes Jinho Chung, Farnaz Sharif, Dajung Jung, Soyoun Kim & Sebastien Royer Scientific Reportsvolume 7, Article number: 2773 (2017) doi:10.1038/s41598-017-03340-5 https://www.nature.com/articles/s41598-017-03340-5
+Micro-drive and headgear for chronic implant and recovery of optoelectronic probes Jinho Chung, Farnaz Sharif, Dajung Jung, Soyoun Kim & Sebastien Royer Scientific Reportsvolume 7, Article number: 2773 (2017) doi:10.1038/s41598-017-03340-5 [https://www.nature.com/articles/s41598-017-03340-5](https://www.nature.com/articles/s41598-017-03340-5)
 
 The designs are distributed under GNU GPLv3 license.
