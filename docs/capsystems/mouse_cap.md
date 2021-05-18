@@ -23,7 +23,7 @@ Download stl files from our [GitGub repository](https://github.com/buzsakilab/3d
 See video below. Detailed assembly instructions are available for the [cap system](https://github.com/buzsakilab/3d_print_designs/raw/master/Mouse_cap/assembly_instructions_mouse_hat_L11.5mm_W10.00mm_v12.pdf).
 
 <video width="100%" height="auto" controls="controls">
-  <source src="https://buzsakilab.com/3d_print_designs/Figure3-video1.mp4" type="video/mp4">
+  <source src="https://buzsakilab.com/3d_print_designs/Figure2-video1.mp4" type="video/mp4">
 </video>
 
 The assembly video is also available on [youtube](https://www.youtube.com/watch?v=_MYBLJf-178).
@@ -32,7 +32,7 @@ The assembly video is also available on [youtube](https://www.youtube.com/watch?
 
 __Mouse cap v11__
 
-| Qty | Name | Vendor | Item number/Link |
+| Qty | Name | Vendor | Item number/Link   |
 |-----|------|--------|-------------|------|
 | 3 | 000-120 screw 1/8" | McMaster | [96710A001](https://www.mcmaster.com/96710A001/) | 
 | 1 | male header pin | DigiKey | [SAM1067-40-ND](https://www.digikey.com/products/en?keywords=SAM1067-40-ND) | 
@@ -41,15 +41,15 @@ __Mouse cap v11__
 
 __Additional tools__
 
-| Qty | Name | Vendor | Item number/Link |
-|-----|------|--------|-------------|------|
+| Qty | Name | Vendor | Item number/Link | Notes |
+|-----|------|--------|------------------|-------|
 | 1 | T1 screwdriver | McMaster | [52995A3](https://www.mcmaster.com/52995a31) | 
 | 1 | 000-120 tap | McMaster | [2504A15](https://www.mcmaster.com/2504a15)  | Or similar tap. | 
 
 __Additional chemicals__
 
-| Qty | Name | Vendor | Item number/Link |
-|-----|------|--------|-------------|------|
+| Qty | Name | Vendor | Item number/Link | Notes |
+|-----|------|--------|------------------|-------|
 | 1 | Cyanoacrylate glue | Loctite | [45208](https://www.loctiteproducts.com/en/products/fix/super-glue/loctite_super_glueultragelcontrol.html) | Gel control | 
 | 1 | Unifast Trad Ivory | Pearson Dental | G05-1224 | 
 | 1 | Unifast Trad Liquid | Pearson Dental | G05-0037 | 
