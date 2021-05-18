@@ -4,11 +4,12 @@ title: Rat cap
 parent: Cap systems
 nav_order: 2
 ---
-![Rat cap](https://buzsakilab.github.io/3d_print_designs/images/rat_cap.png)
 
 # Rat cap system
 {: .no_toc}
 Rat cap design for silicon probe implantation. The fully assembled cap weighs 9.39g.
+
+![Rat cap](https://buzsakilab.github.io/3d_print_designs/images/rat_cap.png)
 
 ## Table of contents
 {: .no_toc .text-delta }
