@@ -33,7 +33,7 @@ The assembly video is also available on [youtube](https://www.youtube.com/watch?
 __Rat cap v08__
 
 | Qty | Name | Vendor | Item number/Link |
-|-----|------|--------|-------------|------|
+|-----|------|--------|------------------|
 | 1 | 00-80 screw 1" | McMaster | [92196A060](https://www.mcmaster.com/92196a060) | 
 | 1 | 00-80 brass insert | McMaster | [92395A109](https://www.mcmaster.com/92395a109) | 
 | 2 | 00-80 screw 5/32"  | McMaster | [92196A053](https://www.mcmaster.com/92196a053) | 
@@ -45,14 +45,14 @@ __Rat cap v08__
 __Optional lid (to close cap for extended period of time)__
 
 | Qty | Name | Vendor | Item number/Link |
-|-----|------|--------|-------------|------|
+|-----|------|--------|------------------|
 | 1 | M2x0.4 Thumb screw    | McMaster | [99607A256](https://www.mcmaster.com/99607a256) | 
 | 1 | M2x0.4 THIN nut       | McMaster | [93935A305](https://www.mcmaster.com/93935a305) | 
 
 __Additional tools__
 
 | Qty | Name | Vendor | Item number/Link |
-|-----|------|--------|-------------|------|
+|-----|------|--------|------------------|
 | 1 | 00-80 tap | McMaster | [2523A461](https://www.mcmaster.com/2523a461) | 
 | 1 | 0.05" hex key | 
 

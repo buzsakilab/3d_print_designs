@@ -32,8 +32,8 @@ The assembly video is also available on [youtube](https://www.youtube.com/watch?
 
 __Mouse cap v11__
 
-| Qty | Name | Vendor | Item number/Link   |
-|-----|------|--------|-------------|------|
+| Qty | Name | Vendor | Item number/Link |
+|-----|------|--------|------------------|
 | 3 | 000-120 screw 1/8" | McMaster | [96710A001](https://www.mcmaster.com/96710A001/) | 
 | 1 | male header pin | DigiKey | [SAM1067-40-ND](https://www.digikey.com/products/en?keywords=SAM1067-40-ND) | 
 |   | copper mesh | Dexmet | 3CU6-050FA | 

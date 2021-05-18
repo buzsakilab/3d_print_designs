@@ -44,7 +44,7 @@ The assembly video is also available on [youtube](https://www.youtube.com/watch?
 __Metal microdrive v9 (1/2")__
 
 | Qty | Name | Vendor | Item number/Link |
-|-----|------|--------|-------------|------|
+|-----|------|--------|------------------|
 | 4 | 00-90 nut | McMaster | [92736A112](https://www.mcmaster.com/92736a112) |
 | 1 | 00-90 screw 1/2" | McMaster | [92482A235](https://www.mcmaster.com/92482a235/) |
 | 3 | 00-90 screw 1/4" | McMaster | [93701A005](https://www.mcmaster.com/93701A005/) |
@@ -55,7 +55,7 @@ __Metal microdrive v9 (1/2")__
 __Additional tools__
 
 | Qty | Name | Vendor | Item number/Link | Notes |
-|-----|------|--------|-------------|-------|------|
+|-----|------|--------|------------------|-------|
 | 1 | T2 screwdriver | McMaster | [52995A31](https://www.mcmaster.com/52995a31) |  | 
 | 1 | T1 screwdriver | McMaster | [52995A31](https://www.mcmaster.com/52995a31) |  | 
 | 1 | 00-90 Tap      | McMaster | [2504A14](https://www.mcmaster.com/2504A14/) | Or similar 00-90 tap. |
