@@ -33,7 +33,7 @@ To purchase fully assembled drives, please contact [3Dneuro](https://www.3dneuro
 See video below. Detailed assembly instructions are available for the [metal microdrive](https://github.com/buzsakilab/3d_print_designs/raw/master/Microdrives/Metal_recoverable/assembly_instructions_implantation_tool_metal_v9.pdf) and for the [implantation tool](https://github.com/buzsakilab/3d_print_designs/raw/master/Microdrives/Metal_recoverable/assembly_instructions_implantation_tool_metal_v9.pdf).
 
 <video width="100%" height="auto" controls="controls">
-  <source src="http://buzsakilab.com/3d_print_designs/Figure1-video1.mp4" type="video/mp4">
+  <source src="https://buzsakilab.com/3d_print_designs/Figure1-video1.mp4" type="video/mp4">
 </video>
 
 The assembly video is also available on [youtube](https://www.youtube.com/watch?v=poEjWvFrr5g). Neuropixels probe attachment (or any other silicon probe) are available [here](https://www.youtube.com/watch?v=MpPdWJEo7Fo).
@@ -42,28 +42,28 @@ The assembly video is also available on [youtube](https://www.youtube.com/watch?
 
 __Metal microdrive v9 (1/2")__ 
 
-| Qty | Name | Vendor | Item number | Link |
+| Qty | Name | Vendor | Item number/Link |
 |-----|------|--------|-------------|------|
-| 4 | 00-90 nut | McMaster |  92736A112 | [link](https://www.mcmaster.com/92736a112) |
-| 1 | 00-90 screw 1/2" | McMaster | 92482A235 | [link](https://www.mcmaster.com/92482a235/) |
-| 3 | 00-90 screw 1/4" | McMaster | 93701A005 | [link](https://www.mcmaster.com/93701A005/) |
-| 1 | 2-56 nylon screw 1/4" | McMaster | 95868A132 | [link](https://www.mcmaster.com/95868A132/) |
-| 1 | 000-120 screw 1/8" | McMaster | 90910A600 | [link](https://www.mcmaster.com/93701a005) |
-| 1-3 | male header pin | DigiKey | SAM1067-40-ND | [link](https://www.digikey.com/products/en?keywords=SAM1067-40-ND) |
+| 4 | 00-90 nut | McMaster | [92736A112](https://www.mcmaster.com/92736a112) |
+| 1 | 00-90 screw 1/2" | McMaster | [92482A235](https://www.mcmaster.com/92482a235/) |
+| 3 | 00-90 screw 1/4" | McMaster | [93701A005](https://www.mcmaster.com/93701A005/) |
+| 1 | 2-56 nylon screw 1/4" | McMaster | [95868A132](https://www.mcmaster.com/95868A132/) |
+| 1 | 000-120 screw 1/8" | McMaster | [90910A600](https://www.mcmaster.com/93701a005) |
+| 1-3 | male header pin | DigiKey | [SAM1067-40-ND](https://www.digikey.com/products/en?keywords=SAM1067-40-ND) |
 
 
 __Additional tools__ 
 
-| Qty | Name | Vendor | Item number | Notes | Link |
+| Qty | Name | Vendor | Item number/Link | Notes |
 |-----|------|--------|-------------|-------|------|
-| 1 | T2 screwdriver | McMaster | 52995A31 | | [link](https://www.mcmaster.com/52995a31) | 
-| 1 | T1 screwdriver | McMaster | 52995A31 | | [link](https://www.mcmaster.com/52995a31) | 
-| 1 | 00-90 Tap | McMaster | 	2504A14 | Or similar 00-90 tap. | [link](https://www.mcmaster.com/2504A14/) | 
-| 1 | 000-120 Tap | McMaster | 2504A12 | Or similar 000-120 tap. | [link](https://www.mcmaster.com/2504A12/) | 
-| 1 | 2-56 Tap | McMaster | 2522A713 | Or similar 2-56 tap. | [link](https://www.mcmaster.com/2522A713/) | 
-| 1 | Ball-End | McMaster | 5497A24 | | [link](https://www.mcmaster.com/5497A24/) | 
-|  | Hex Screwdriver |  |  |  |  | 
-| 1 | 1.2 mm drill bit |  McMaster | 2958A29 | Or similar drill bit. | [link](https://www.mcmaster.com/2958a29) | 
+| 1 | T2 screwdriver | McMaster | [52995A31](https://www.mcmaster.com/52995a31) |  | 
+| 1 | T1 screwdriver | McMaster | [52995A31](https://www.mcmaster.com/52995a31) |  | 
+| 1 | 00-90 Tap      | McMaster | [2504A14](https://www.mcmaster.com/2504A14/) | Or similar 00-90 tap. |
+| 1 | 000-120 Tap    | McMaster | [2504A12](https://www.mcmaster.com/2504A12/) | Or similar 000-120 tap. |
+| 1 | 2-56 Tap       | McMaster | [2522A713](https://www.mcmaster.com/2522A713/) | Or similar 2-56 tap. |
+| 1 | Ball-End       | McMaster | [5497A24](https://www.mcmaster.com/5497A24/) |  | 
+|   | Hex Screwdriver |  |  |  |  | 
+| 1 | 1.2 mm drill bit |  McMaster | [2958A29](https://www.mcmaster.com/2958a29) | Or similar drill bit. | 
 
 
 ## Citations
