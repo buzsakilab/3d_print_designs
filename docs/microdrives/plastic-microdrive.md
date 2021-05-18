@@ -20,6 +20,8 @@ Plastic microdrive for silicon probe recordings. Below are necessary design file
 ## Printing and assembly instructions 
 Download stl files from our [GitHub repository](https://github.com/buzsakilab/3d_print_designs/tree/master/Microdrives/Plastic_recoverable). The stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Resin. For other printers and/or resins, some modifications may be necessary.
 
+Below links are youtube videos with instructions:
+
 1. [Microdrive assembly](https://youtu.be/rjxaH515N64)
 2. [Probe attachment to microdrive](https://youtu.be/2L5RHcbsU7o)
 3. [Probe recovery](https://youtu.be/T5gyuZVKXo8)
