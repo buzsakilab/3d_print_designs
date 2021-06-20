@@ -1,0 +1,5 @@
+In order to receive high quality prints from ProtoLabs, please follow these instructions.
+
+1. Add the following note to drive_v09: ’Use orientation as in quote 9301-742',
+2. Add the following note to arm_v09_aluminum: ’Use orientation as in quote 2379-080.’
+
