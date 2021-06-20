@@ -33,7 +33,7 @@ v10: stereotax attachment and drive holder.
 
 If you use our designs, please cite our paper:
 Metal microdrive and head cap system for silicon probe recovery in freely moving rodent 
-Mihály Vöröslakos, Peter C. Petersen, Balázs Vöröslakos, György Buzsáki doi: [10.7554/eLife.65859]
+Mihály Vöröslakos, Peter C. Petersen, Balázs Vöröslakos, György Buzsáki https://doi.org/10.7554/eLife.65859
 
 
 The original idea of the drive is described in the following paper.
