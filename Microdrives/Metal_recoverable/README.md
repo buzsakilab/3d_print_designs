@@ -1,4 +1,4 @@
-Metal microdrive designs for silicon probes.
+Metal microdrive designs for silicon probes (v10 is not back compatible with previous versions).
 
 **ASSEMBLY**
 
