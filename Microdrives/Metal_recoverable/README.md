@@ -7,7 +7,7 @@ Attaching Neuropixels probe (or any other silicon probe) video can be found here
 
 **ORDERING**
 
-The .step files are optimized for stainless steel 316L, 20 micrometer resolution (drive_10) and aluminum AlSi10Mg, high resolution (arm_v10 and base_v10) using Proto Labs (https://www.protolabs.com/). Please see *ordering_instructions.txt* for more information. 
+The .step files are optimized for stainless steel 316L, 20 micrometer resolution (drive_v10) and aluminum AlSi10Mg, high resolution (arm_v10 and base_v10) using Proto Labs (https://www.protolabs.com/). Please see *ordering_instructions.txt* for more information. 
 For other printers, materials or company, some modifications may be necessary.
 
 
