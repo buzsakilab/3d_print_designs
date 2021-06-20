@@ -24,6 +24,7 @@ v10: shell base 3.6 x 4.7 mm (WxL); height: 15 mm; travel distance 7 mm
 The .stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Resin. For other printers and/or resins, some modifications may be necessary.
 
 2 version is made available here:
+
 v9: stereotax attachment and drive holder.
 v10: stereotax attachment and drive holder.
 
