@@ -13,7 +13,7 @@ For other printers, materials or company, some modifications may be necessary.
 
 **PURCHASING fully assembled microdrives**
 
-To purchase fully assembled drives, contact 3Dneuro (our partner in production) https://www.3dneuro.com/2021/04/23/new-metal-microdrive-in-collaboration-with-the-buzsaki-lab/.
+To purchase fully assembled drives, contact 3Dneuro (our partner in production) (https://www.3dneuro.com/).
 
 
 **SPECIFICATIONS**
