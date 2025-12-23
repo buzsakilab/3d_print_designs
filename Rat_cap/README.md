@@ -35,7 +35,7 @@ Files:
 
 **Key difference:** v8_v2_256 has a wider base, providing more space for multi-probe implants.
 
-![v8 vs v8_v2_256](v8_to_v8_v2_256.png)
+![v8 vs v8_v2_256](https://github.com/buzsakilab/3d_print_designs/blob/4c0ec065a11862616113cd7bdff3af7f23ea960d/Rat_cap/v8_v2_256/v8_to_v8_v2_256.png)
 
 ---
 
