@@ -1,22 +1,60 @@
-Rat cap design for silicon probe implantation.
+# Rat cap (v8 / v8_v2_256)
 
-Assembly instructions can be found in the assembly_instructions_rat_cap_v8.pdf file or at this link:
+Rat cap design for chronic silicon probe implantation in freely moving rats.
+
+---
+
+## Assembly
+
+Assembly instructions are available in **`assembly_instructions_rat_cap_v8.pdf`** and in this video:  
 1. https://www.youtube.com/watch?v=SgM9TPhbf_Y&feature=youtu.be
 
-The .stl files are optimized for Formlabs Form2 printer and Grey-v4/Clear-v4 Resin. For other printers and/or resins, some modifications may be necessary.
+---
 
-**2 versions are made available here:**
-v8: rat_cap_base_v8, rat_cap_left_wall_v8, rat_cap_right_wall_v8, rat_cap_top_v8
-v8_v2_256: rat_cap_base_v8_v2_256, rat_cap_left_wall_v8_v2_256, rat_cap_right_wall_v8_v2_256
+## Printing notes
 
-![v8 vs v8_v2_256](https://github.com/buzsakilab/3d_print_designs/blob/4c0ec065a11862616113cd7bdff3af7f23ea960d/Rat_cap/v8_v2_256/v8_to_v8_v2_256.png)
+- The provided `.stl` files are optimized for **Formlabs Form 2** using **Grey v4 / Clear v4 resin**.  
+- For other printers and/or resins, minor modifications may be necessary.
 
+---
 
-The fully assembled v8 cap weighs 9.39g.
+## Versions included
 
-If you use this design, please cite our paper:
-Metal microdrive and head cap system for silicon probe recovery in freely moving rodent
-Mihály Vöröslakos, Peter C. Petersen, Balázs Vöröslakos, György Buzsáki
+### **v8**
+Files:
+- `rat_cap_base_v8`
+- `rat_cap_left_wall_v8`
+- `rat_cap_right_wall_v8`
+- `rat_cap_top_v8`
+
+### **v8_v2_256**
+Files:
+- `rat_cap_base_v8_v2_256`
+- `rat_cap_left_wall_v8_v2_256`
+- `rat_cap_right_wall_v8_v2_256`
+
+**Key difference:** v8_v2_256 has a wider base, providing more space for multi-probe implants.
+
+![v8 vs v8_v2_256](v8_to_v8_v2_256.png)
+
+---
+
+## Weight
+
+- Fully assembled **v8 cap weight:** **9.39 g**
+
+---
+
+## Citation
+
+If you use this design, please cite:
+
+**Metal microdrive and head cap system for silicon probe recovery in freely moving rodent**  
+Mihály Vöröslakos, Peter C. Petersen, Balázs Vöröslakos, György Buzsáki  
 https://elifesciences.org/articles/65859
 
-The designs are desitributed under GNU GPLv3 license.
+---
+
+## License
+
+Distributed under the **GNU GPLv3** license.
