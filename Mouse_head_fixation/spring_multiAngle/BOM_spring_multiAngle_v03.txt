@@ -1,0 +1,24 @@
+Mouse head-fixed base plate with spring_multiAngle alignment tool v03	
+			
+Name			Qty		Vendor		Item number	Link					Notes
+
+Socket Head Screw
+0-80 Thread Size, 5/8"	2		McMaster	90696A156	https://www.mcmaster.com/90696A156/	
+
+0-80 hex nut		2		McMaster	91841A115	https://www.mcmaster.com/91841A115/
+
+Pan Head Screw
+0-80 Thread Size, 5/8"	2		McMaster	91772A060	https://www.mcmaster.com/91772A060/
+
+Compression Spring	2		McMaster	9657K641	https://www.mcmaster.com/9657K641/
+
+00-90 nut		3		McMaster	92736A112	https://www.mcmaster.com/92736A112/
+
+Pan Head Torx Screws
+00-90, 1/4"		3		McMaster	93701A005	https://www.mcmaster.com/93701A005/
+00-90, 3/16"		2		McMaster	93701A003	https://www.mcmaster.com/93701A003/
+00-90, 1/2"		1		McMaster	92482A235	https://www.mcmaster.com/92482A235/	Length should be custom cut.
+
+
+Additional tools
+00-90 tap		1		McMaster	2504A14		https://www.mcmaster.com/2504A14/

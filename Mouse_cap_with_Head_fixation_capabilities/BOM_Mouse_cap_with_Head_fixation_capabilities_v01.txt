@@ -1,0 +1,19 @@
+Mouse cap v11			
+			
+Qty	Name			Vendor		Item number	Notes			Link
+					
+3	000-120 screw 1/8"	McMaster	96710A001				https://www.mcmaster.com/96710A001/
+1	male header pin		DigiKey		SAM1067-40-ND				https://www.digikey.com/products/en?keywords=SAM1067-40-ND
+	copper mesh		Dexmet		3CU6-050FA
+1	Coban			3M		7100219100				https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Coban-Self-Adherent-Wrap-1583N-Neon-Rainbow-Pack-3-Inches-x-5-Yards-12-Bags-Case/?N=5002385+3288984430&preselect=3293786499&rt=rud
+
+Additional tools				
+1	T1 screwdriver		McMaster	52995A3					https://www.mcmaster.com/52995a31
+1	000-120 tap		McMaster	2504A15		Or similar tap.		https://www.mcmaster.com/2504a15
+
+Additional chemicals
+1	Cyanoacrylate glue	Loctite		45208		Gel control.		https://www.loctiteproducts.com/en/products/fix/super-glue/loctite_super_glueultragelcontrol.html	
+1	Unifast Trad Ivory	Pearson Dental	G05-1224
+1	Unifast Trad Liquid 	Pearson Dental	G05-0037
+1	Soldering iron 		Stannol		574104
+1	Solder Paste 		Quick Chip	23271700
