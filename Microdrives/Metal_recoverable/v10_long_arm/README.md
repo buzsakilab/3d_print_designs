@@ -1,9 +1,10 @@
 Metal microdrive designs for silicon probes (**v10 is not back compatible with previous versions**).
 
 **Microdrive Shuttle for Rat surgeries**
+
 Sometimes we need to reach deeper than 7 mm using a Neuropixels probe. **arm_v10_long** provides a solution to achieve this. 
 
-Details on the issue and its implemented solution can be found here: 
+Details on the issue and its implemented solution can be found here: Microdrives/Metal_recoverable/v10_long_arm/Long_arm_rats_NPX.pdf
 
 **ASSEMBLY**
 
